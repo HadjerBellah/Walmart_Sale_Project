@@ -84,10 +84,10 @@ Objective-Driven Analysis: Leverage Pandas and data visualization tools (e.g., M
 
 ## Results and Insights
 
-- Top Revenue Contributors: Major sales were driven by specific cities and branches, with clear leaders emerging in both total revenue and profitability, guiding where to focus future marketing and expansion.
-- High-Performing Categories: Certain product categories consistently outperformed others, both in total sales and profit per unit, offering strong candidates for restocking and promotion strategies.
-- Customer Behavior Patterns: Sales peaked during afternoon hours and weekends, with a noticeable preference for digital payment methods, especially in urban areas—helpful for optimizing store operations and payment systems.
-- Data-Driven Recommendations: Visualizations revealed clear seasonal trends, low-rated transactions, and correlations between pricing and customer satisfaction, providing actionable insights for pricing strategy and customer service improvements.
+- **Top Revenue Contributors**: Major sales were driven by specific cities and branches, with clear leaders emerging in both total revenue and profitability, guiding where to focus future marketing and expansion.
+- **High-Performing Categories**: Certain product categories consistently outperformed others, both in total sales and profit per unit, offering strong candidates for restocking and promotion strategies.
+- **Customer Behavior Patterns**: Sales peaked during afternoon hours and weekends, with a noticeable preference for digital payment methods, especially in urban areas—helpful for optimizing store operations and payment systems.
+- **Data-Driven Recommendations**: Visualizations revealed clear seasonal trends, low-rated transactions, and correlations between pricing and customer satisfaction, providing actionable insights for pricing strategy and customer service improvements.
 
 ## Future Enhancements
 
