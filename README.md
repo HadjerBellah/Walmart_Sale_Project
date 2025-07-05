@@ -70,20 +70,22 @@ Objective-Driven Analysis: Leverage Pandas and data visualization tools (e.g., M
 ## Project Structure
 
 ```plaintext
-|-- data/                     # Raw and processed data files (CSV, Excel, etc.)
-|-- notebooks/                # Jupyter notebooks for data loading, cleaning, and analysis
-|-- README.md                 # Project documentation and instructions
-|-- requirements.txt          # List of required Python libraries
+|-- data/                             # Raw and processed data files
+|   |-- Walmart.csv                   # Original raw Walmart sales dataset
+|   |-- walmart_cleaned.csv           # Cleaned and preprocessed version of the dataset
+|
+|-- notebooks/                        # Jupyter notebooks for all data tasks
+|   |-- Walmart_analysis.ipynb        # Main analysis notebook with visualizations and insights
+|
+|-- README.md                         # Project overview, setup instructions, and usage guide
+|-- requirements.txt                  # List of required Python libraries and dependencies
 ```
 *** They represent how your project folders are organized on your computer — whether that’s your Desktop or any other folder.
 ---
 
 ## Results and Insights
 
-This section will include your analysis findings:
-- **Sales Insights**: Key categories, branches with highest sales, and preferred payment methods.
-- **Profitability**: Insights into the most profitable product categories and locations.
-- **Customer Behavior**: Trends in ratings, payment preferences, and peak shopping hours.
+
 
 ## Future Enhancements
 
