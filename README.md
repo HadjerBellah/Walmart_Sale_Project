@@ -72,7 +72,7 @@ Objective-Driven Analysis: Leverage Pandas and data visualization tools (e.g., M
 ```plaintext
 |-- data/                             # Raw and processed data files
 |   |-- Walmart.csv                   # Original raw Walmart sales dataset
-|   |-- walmart_cleaned.csv           # Cleaned and preprocessed version of the dataset
+|   |-- walmart_cleaned_data.csv           # Cleaned and preprocessed version of the dataset
 |
 |-- notebooks/                        # Jupyter notebooks for all data tasks
 |   |-- Walmart_analysis.ipynb        # Main analysis notebook with visualizations and insights
@@ -80,7 +80,6 @@ Objective-Driven Analysis: Leverage Pandas and data visualization tools (e.g., M
 |-- README.md                         # Project overview, setup instructions, and usage guide
 |-- requirements.txt                  # List of required Python libraries and dependencies
 ```
-*** They represent how your project folders are organized on your computer — whether that’s your Desktop or any other folder.
 ---
 
 ## Results and Insights
