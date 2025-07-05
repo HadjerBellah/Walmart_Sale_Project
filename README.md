@@ -107,4 +107,4 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 - **Data Source**: Walmart 10K Sales Dataset available on Kaggle, provided by user [najir0123](https://www.kaggle.com/najir0123).
-- **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
+
