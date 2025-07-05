@@ -57,7 +57,7 @@ Objective-Driven Analysis: Leverage Pandas and data visualization tools (e.g., M
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/johnsmith/ngs-alignment.git ## Here the URL of my repository
+   git clone https://github.com/HadjerBellah/Business_Project.git
    ```
 2. Install Python libraries:
    ```bash
